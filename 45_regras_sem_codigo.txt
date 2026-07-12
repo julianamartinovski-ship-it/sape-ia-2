@@ -1,0 +1,227 @@
+TOTAL SEM CODIGO: 45
+
+01 | REGRA: Início tardio do pré-natal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Adesão ao cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Adesão ao cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar plano de seguimento do pré-natal'}
+
+02 | REGRA: Gestante faltosa
+DIAGNOSTICO: {'codigo': None, 'termo': 'Continuidade do cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar busca ativa da gestante'}
+
+03 | REGRA: Área descoberta pela ESF
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar seguimento do pré-natal'}
+
+04 | REGRA: Longa distância até a UBS
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar retorno conforme possibilidade de deslocamento'}
+
+05 | REGRA: Transporte fluvial
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar consultas conforme logística fluvial'}
+
+06 | REGRA: Início tardio do pré-natal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Adesão ao cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Adesão ao cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar plano de seguimento do pré-natal'}
+
+07 | REGRA: Gestante faltosa
+DIAGNOSTICO: {'codigo': None, 'termo': 'Continuidade do cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar busca ativa da gestante'}
+
+08 | REGRA: Área descoberta pela ESF
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar seguimento do pré-natal'}
+
+09 | REGRA: Longa distância até a UBS
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar retorno conforme possibilidade de deslocamento'}
+
+10 | REGRA: Transporte fluvial
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar consultas conforme logística fluvial'}
+
+11 | REGRA: Início tardio do pré-natal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Adesão ao cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Adesão ao cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar plano de seguimento do pré-natal'}
+
+12 | REGRA: Gestante faltosa
+DIAGNOSTICO: {'codigo': None, 'termo': 'Continuidade do cuidado prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar busca ativa da gestante'}
+
+13 | REGRA: Área descoberta pela ESF
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Organizar seguimento do pré-natal'}
+
+14 | REGRA: Longa distância até a UBS
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso ao cuidado melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar retorno conforme possibilidade de deslocamento'}
+
+15 | REGRA: Transporte fluvial
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso ao serviço de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Continuidade do cuidado melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar consultas conforme logística fluvial'}
+
+16 | REGRA: Hipertensão arterial
+DIAGNOSTICO: {'codigo': None, 'termo': 'Pressão arterial alterada'}
+RESULTADO: {'codigo': None, 'termo': 'Pressão arterial controlada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Monitorar pressão arterial'}
+
+17 | REGRA: Proteinúria
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de condição hipertensiva na gestação'}
+RESULTADO: {'codigo': None, 'termo': 'Risco reduzido'}
+INTERVENCAO: {'codigo': None, 'termo': 'Avaliar sinais de gravidade'}
+
+18 | REGRA: Cefaleia persistente
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de condição hipertensiva na gestação'}
+RESULTADO: {'codigo': None, 'termo': 'Segurança materno-fetal preservada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Encaminhar para avaliação conforme protocolo de risco gestacional'}
+
+19 | REGRA: Escotomas visuais
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de condição hipertensiva na gestação'}
+RESULTADO: {'codigo': None, 'termo': 'Segurança materno-fetal preservada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Encaminhar para avaliação imediata'}
+
+20 | REGRA: Edema importante
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de pré-eclâmpsia'}
+RESULTADO: {'codigo': None, 'termo': 'Risco reduzido'}
+INTERVENCAO: {'codigo': None, 'termo': 'Avaliar pressão arterial e proteinúria'}
+
+21 | REGRA: Glicemia alterada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de glicemia alterada'}
+RESULTADO: {'codigo': None, 'termo': 'Glicemia controlada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar acompanhamento glicêmico conforme protocolo'}
+
+22 | REGRA: Diabetes gestacional
+DIAGNOSTICO: {'codigo': None, 'termo': 'Glicemia alterada'}
+RESULTADO: {'codigo': None, 'termo': 'Glicemia controlada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Acompanhar controle glicêmico'}
+
+23 | REGRA: Anemia
+DIAGNOSTICO: {'codigo': None, 'termo': 'Hemoglobina diminuída'}
+RESULTADO: {'codigo': None, 'termo': 'Hemoglobina melhorada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar suplementação de ferro'}
+
+24 | REGRA: Obesidade
+DIAGNOSTICO: {'codigo': None, 'termo': 'Peso corporal aumentado'}
+RESULTADO: {'codigo': None, 'termo': 'Peso corporal adequado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar alimentação saudável'}
+
+25 | REGRA: Baixo peso
+DIAGNOSTICO: {'codigo': None, 'termo': 'Peso corporal diminuído'}
+RESULTADO: {'codigo': None, 'termo': 'Estado nutricional melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar alimentação adequada'}
+
+26 | REGRA: Tabagismo
+DIAGNOSTICO: {'codigo': None, 'termo': 'Comportamento de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Comportamento de saúde melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar cessação do tabagismo'}
+
+27 | REGRA: Uso de álcool
+DIAGNOSTICO: {'codigo': None, 'termo': 'Comportamento de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Comportamento de saúde melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar interrupção do uso de álcool'}
+
+28 | REGRA: Uso de drogas
+DIAGNOSTICO: {'codigo': None, 'termo': 'Comportamento de saúde prejudicado'}
+RESULTADO: {'codigo': None, 'termo': 'Comportamento de saúde melhorado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Encaminhar para cuidado compartilhado em saúde mental'}
+
+29 | REGRA: Idade materna menor que 15 anos
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco materno-fetal aumentado'}
+RESULTADO: {'codigo': None, 'termo': 'Risco materno-fetal reduzido'}
+INTERVENCAO: {'codigo': None, 'termo': 'Encaminhar para acompanhamento de pré-natal de alto risco'}
+
+30 | REGRA: Idade materna maior ou igual a 35 anos
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco materno-fetal aumentado'}
+RESULTADO: {'codigo': None, 'termo': 'Risco materno-fetal reduzido'}
+INTERVENCAO: {'codigo': None, 'termo': 'Avaliar fatores de risco gestacional'}
+
+31 | REGRA: Situação vacinal desconhecida
+DIAGNOSTICO: {'codigo': None, 'termo': 'Situação vacinal prejudicada'}
+RESULTADO: {'codigo': None, 'termo': 'Situação vacinal avaliada e atualizada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Avaliar situação vacinal da gestante'}
+
+32 | REGRA: Vacina dT incompleta
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de imunização incompleta contra difteria e tétano'}
+RESULTADO: {'codigo': None, 'termo': 'Esquema vacinal contra difteria e tétano completado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Completar esquema vacinal com dT conforme histórico vacinal'}
+
+33 | REGRA: Vacina dTpa indicada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Necessidade de imunização contra difteria, tétano e coqueluche'}
+RESULTADO: {'codigo': None, 'termo': 'Gestante imunizada com dTpa'}
+INTERVENCAO: {'codigo': None, 'termo': 'Administrar ou encaminhar para vacina dTpa a partir da 20ª semana gestacional'}
+
+34 | REGRA: Vacina dTpa não realizada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Imunização materna ausente contra coqueluche'}
+RESULTADO: {'codigo': None, 'termo': 'Vacinação dTpa realizada no período oportuno'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar busca ativa para vacinação dTpa'}
+
+35 | REGRA: Vacina influenza indicada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Necessidade de imunização contra influenza'}
+RESULTADO: {'codigo': None, 'termo': 'Gestante imunizada contra influenza'}
+INTERVENCAO: {'codigo': None, 'termo': 'Administrar ou encaminhar para vacina influenza sazonal'}
+
+36 | REGRA: Vacina influenza não realizada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Imunização ausente contra influenza'}
+RESULTADO: {'codigo': None, 'termo': 'Vacinação contra influenza realizada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar e encaminhar gestante para vacinação contra influenza'}
+
+37 | REGRA: Vacina hepatite B incompleta
+DIAGNOSTICO: {'codigo': None, 'termo': 'Risco de imunização incompleta contra hepatite B'}
+RESULTADO: {'codigo': None, 'termo': 'Esquema vacinal contra hepatite B completado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Completar esquema vacinal contra hepatite B'}
+
+38 | REGRA: Vacina hepatite B não realizada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Imunização ausente contra hepatite B'}
+RESULTADO: {'codigo': None, 'termo': 'Esquema vacinal contra hepatite B iniciado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Iniciar vacinação contra hepatite B conforme calendário da gestante'}
+
+39 | REGRA: Vacina COVID-19 indicada
+DIAGNOSTICO: {'codigo': None, 'termo': 'Necessidade de imunização contra COVID-19'}
+RESULTADO: {'codigo': None, 'termo': 'Gestante imunizada contra COVID-19'}
+INTERVENCAO: {'codigo': None, 'termo': 'Encaminhar gestante para vacinação contra COVID-19'}
+
+40 | REGRA: Recusa vacinal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Adesão prejudicada à vacinação'}
+RESULTADO: {'codigo': None, 'termo': 'Gestante orientada e decisão vacinal reavaliada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar aconselhamento sobre vacinação na gestação'}
+
+41 | REGRA: Medo de reação vacinal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Medo relacionado à vacinação'}
+RESULTADO: {'codigo': None, 'termo': 'Medo reduzido e vacinação aceita ou reavaliada'}
+INTERVENCAO: {'codigo': None, 'termo': 'Orientar sobre eventos adversos esperados e sinais de alerta'}
+
+42 | REGRA: Falta de acesso à sala de vacina
+DIAGNOSTICO: {'codigo': None, 'termo': 'Acesso prejudicado à vacinação'}
+RESULTADO: {'codigo': None, 'termo': 'Acesso à vacinação garantido'}
+INTERVENCAO: {'codigo': None, 'termo': 'Articular acesso da gestante à sala de vacina'}
+
+43 | REGRA: Barreiras culturais relacionadas à vacinação
+DIAGNOSTICO: {'codigo': None, 'termo': 'Conflito cultural relacionado à vacinação'}
+RESULTADO: {'codigo': None, 'termo': 'Barreiras culturais identificadas e manejadas'}
+INTERVENCAO: {'codigo': None, 'termo': 'Realizar cuidado culturalmente congruente sobre vacinação'}
+
+44 | REGRA: Gestante ribeirinha com dificuldade de acesso à vacina
+DIAGNOSTICO: {'codigo': None, 'termo': 'Vulnerabilidade territorial para atraso vacinal'}
+RESULTADO: {'codigo': None, 'termo': 'Vacinação viabilizada conforme realidade territorial'}
+INTERVENCAO: {'codigo': None, 'termo': 'Planejar vacinação conforme contexto ribeirinho'}
+
+45 | REGRA: Gestante sem cartão vacinal
+DIAGNOSTICO: {'codigo': None, 'termo': 'Registro vacinal ausente'}
+RESULTADO: {'codigo': None, 'termo': 'Registro vacinal recuperado ou atualizado'}
+INTERVENCAO: {'codigo': None, 'termo': 'Solicitar, recuperar ou reconstruir registro vacinal'}
+
